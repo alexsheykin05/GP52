@@ -1,2 +1,0 @@
-superjob.csv filter=lfs diff=lfs merge=lfs -text
-data/superjob.csv filter=lfs diff=lfs merge=lfs -text
